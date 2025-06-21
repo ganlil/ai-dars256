@@ -1,0 +1,43 @@
+1-savol: Machine learning xayotimizda qayerlarda uchrashi mumkin (PPT da aytilgan va aytilmagan misollarni yozing)?
+Tibbiy diagnostika, Auto-Driving, Fond bozori prognozi, Sport, Reklama va boshqalar
+2-savol: O’yin o’ynay oladigan dastur yaratgan olim kim?
+Artur Samuel 
+
+3-savol: Machine learning qanday fan? Qisqa so’zlar bilan tushuntiring.
+Bor malumotlar ni urganib keyingi bulishi mumkin bulgan ish holat ni aniqlab yoki predict qilib berish. 
+
+4-savol: Jadvaldagi tadiqiqotlardan qaysi biri siz uchun eng qiziq bo’ldi. Javobingizni qisqacha so’zlar bilan izohlang.
+1957 Frenk Rozenblatt Inson miyasi faoliyatini taqlid qiladigan dastlabki neyron tarmoq dasturini ishlab chiqdi.
+
+
+1-savol: Nima uchun Machine learningni o’rganishimiz uchun dastlab Human learningni bilishimiz
+kerak?
+Insonlar ustoz yordamida bilim oladi va imtixonda yoki hayotda o'sha bilimlardan foydalanadi. Machine datalar yordamida o'rganadi va o'sha bilimlardan foydalangan holda ishlarni bajaradi
+
+• 2-savol: O’rganish turlaridan qaysi biri eng muhim va nima uchun?
+
+Mustaqil o’rganish, Hayotiy tajribalar orqali o’rganish
+
+
+• 1-savol: Mlni deganda shu kungacha nimani tushunar edingiz?
+Suniy Intelektt deb tushunar ediim
+
+• 2-savol: Ml deganda endi nimani tushunasiz?
+AI ichidagi bir qismi bulib, mavjud datalar orqali keyingi bulishi mumkin bulgan hodisani aniqlash yoki shu ustida ishlab javob chiqarish
+
+• 3-savol: Jadvaldagi bosqichlardan sizningcha eng muhimi qaysi?
+           3. Ma’lumotlarni tahlil qilish va o‘rganish  5. Modelni o‘rgatish 
+
+• 4-savol: O’rganilgan tajriba keyingi muammoga tadbiq qilingandagi asosiy xususiyat nima bo’lishi kerak? 
+Hm…
+
+
+1-savol: Mavzuda o’tilgan imtixonga tayyorgarlik misolida aytilganidek o’rganilayotgan malumotlar ko’payganda asosiy kerakli narsa nima?
+Kuplab malumotlar ichidan foydali va natijasi yuqori bulgan datalarni yiga olishlik bulsa kk. 
+
+• 2-savol: Malumotlarni ishlatishdan oldin qilinadigan ishlar nima va nima uchun u bosqichlarni amalga oshirishimiz kerak?
+Data tupalsh va tahlil, Modelga solish, supervised semi/unsepervidsed Organish usullari, 
+
+• 3-savol: Butun mavzu bo’yicha olingan xulosalaringizni tushuntirib bering.
+
+AI – buni umumiy fan desak, uni ichiga ML DM va LLM kabilarlar bor. ML data lar bn ishlash, malumotlar va tarjiba orqali vazifalarni tez va aniq bajarish mumkinligini bilib oldim.
