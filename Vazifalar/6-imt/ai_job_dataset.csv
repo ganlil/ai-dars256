@@ -1,0 +1,40 @@
+job_id,job_title,salary_usd,company_location,company_size,remote_ratio,required_skills,education_required,years_experience,posting_date,job_description_length,benefits_score
+AI00001,AI Research Scientist,90376,China,M,50,"Tableau, PyTorch, Kubernetes, Linux, NLP",Bachelor,9,2024/10/18,1076,5.9
+AI00002,AI Software Engineer,61895,Canada,M,100,"Deep Learning, AWS, Mathematics, Python, Docker",Master,1,2024/11/20,1268,5.2
+AI00003,,152626,Switzerland,L,0,"Kubernetes, Deep Learning, Java, Hadoop, NLP",Associate,2,2025/03/18,1974,9.4
+AI00004,,80215,India,M,50,"Scala, SQL, Linux, Python",PhD,7,2024/12/23,1345,8.6
+AI00005,AI Consultant,54624,France,S,100,"MLOps, Java, Tableau, Python",Master,0,2025/04/15,1989,6.6
+AI00006,AI Architect,123574,Germany,M,50,"Data Visualization, R, SQL, Linux",Associate,7,2024/08/31,819,
+AI00007,Principal Data Scientist,79670,United Kingdom,S,0,"R, Docker, MLOps",Associate,3,2024/12/29,1936,
+AI00008,NLP Engineer,70640,France,L,0,"Python, SQL, Computer Vision, Java, Azure",Master,0,2024/06/07,1286,7.6
+,Data Analyst,,Singapore,,0,"Hadoop, Git, Mathematics, Python",PhD,7,,551,9.3
+AI00010,AI Software Engineer,,Austria,M,0,"MLOps, GCP, Scala, Azure, Linux",Master,5,2024/10/20,2340,5.8
+AI00011,Autonomous Systems Engineer,,Sweden,M,100,"MLOps, Python, SQL",Associate,8,2025/01/29,1047,9.9
+AI00012,AI Architect,115047,South Korea,S,0,"R, Data Visualization, Python, Azure",Master,15,2024/07/16,513,6.8
+AI00013,,124355,France,M,100,"Tableau, Python, TensorFlow",PhD,5,2024/12/29,760,5.2
+AI00014,,68760,Norway,S,0,"Scala, SQL, Statistics",Master,0,,1657,9.1
+AI00015,,150122,Sweden,,100,"PyTorch, Python, Data Visualization, GCP",Associate,6,2024/10/02,1466,9.8
+AI00016,AI Product Manager,78846,United Kingdom,L,,"Linux, Statistics, Deep Learning",PhD,0,2024/09/28,2059,9.6
+AI00017,Principal Data Scientist,59823,India,,,"Tableau, NLP, Spark",Bachelor,1,,1200,5.8
+AI00018,Machine Learning Engineer,181139,France,L,,"MLOps, PyTorch, Azure",Associate,15,2024/04/24,2142,8.7
+4545,Data Engineer,155300,Singapore,M,,"Git, Hadoop, R, Python, Spark",Associate,9,2024/04/30,589,8.6
+AI00020,Research Scientist,,Netherlands,L,100,"Java, Scala, NLP, Docker, Computer Vision",PhD,4,,1809,6.7
+AI00021,Data Engineer,,Norway,M,0,"Deep Learning, AWS, Azure",Bachelor,,2024/06/21,969,9.6
+AI00022,Autonomous Systems Engineer,,United States,M,0,"Tableau, Spark, NLP, TensorFlow, PyTorch",Bachelor,,2024/04/23,625,10
+AI00023,ML Ops Engineer,,Germany,,0,"Hadoop, Git, Tableau",PhD,,,1629,6.9
+AI00024,AI Product Manager,,Austria,M,100,"Git, Hadoop, Docker",Master,,2024/06/07,2298,9.3
+AI00025,ML Ops Engineer,,China,,0,"AWS, Azure, Git, SQL, Computer Vision",Bachelor,2,2024/10/27,1006,7.4
+AI00026,Robotics Engineer,,Israel,L,100,"Linux, Git, Tableau, Kubernetes, Data Visualization",PhD,6,2024/08/01,,8.8
+AI00027,ML Ops Engineer,,Australia,S,50,,Master,2,2024/11/18,2109,7.7
+AI00028,Data Analyst,52997,Austria,M,0,,PhD,2,2025/01/10,,8.6
+AI00029,Head of AI,42819,Ireland,M,50,"Python, Scala, NLP, Mathematics, Git",PhD,0,2024/10/08,,8.6
+AI00030,,82083,Israel,L,100,"Azure, Python, Computer Vision, Kubernetes, TensorFlow",Master,2,2024/01/18,,6.3
+AI00031,Head of AI,67488,Netherlands,M,100,"Deep Learning, GCP, AWS, Linux, Tableau",Master,1,2024/05/16,,6
+AI00032,Research Scientist,,Denmark,M,0,"Azure, Python, Spark",,1,2024/01/31,,9.2
+,Robotics Engineer,146852,Switzerland,S,50,"NLP, Scala, Python",PhD,7,2024/08/28,,5.3
+AI00034,ML Ops Engineer,178183,Finland,M,0,"Tableau, Azure, GCP, Linux, Python",Associate,16,2024/03/01,,5.7
+AI00035,Deep Learning Engineer,150864,Sweden,L,0,"R, GCP, MLOps, Linux",PhD,8,2024/10/26,1504,
+AI00036,Head of AI,126942,Finland,L,0,"Git, Hadoop, Data Visualization",Associate,10,2024/01/31,1261,9.9
+AI00037,AI Architect,53752,Japan,M,100,"Data Visualization, Tableau, AWS, Mathematics, Python",Associate,2,2024/10/17,998,6.1
+AI00038,Robotics Engineer,111381,Israel,S,0,"Linux, PyTorch, SQL, Statistics",Master,18,2024/01/14,1030,8.1
+AI00039,AI Specialist,41430,China,M,50,"Tableau, Docker, GCP",Bachelor,1,2024/06/15,2323,8
